@@ -1,0 +1,17 @@
+### Required Packages
+- pandas
+- matplotlib
+- numpy
+
+Install them using:
+```bash
+pip install pandas matplotlib numpy
+
+### Running the Interactive Plot
+To view the interactive visualization, run the following command in your terminal:
+```bash
+python interactive_plot.py
+
+### Also try to include additional dependencies like "dash" and "plotly" and for this run the following command in you terminal:
+```bash
+pip install dash plotly
