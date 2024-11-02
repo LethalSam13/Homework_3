@@ -44,8 +44,9 @@ This project includes both static and interactive visualizations to examine spat
 
 Key visualizations include:
 
-Static Plots: A time-series line plot of velocity components and a heatmap of vorticity distribution, highlighting how wake characteristics change over space and time.
-Interactive Plot: A dynamic visualization that allows users to explore specific distances and time intervals, facilitating deeper insight into the wake structure.
+1) Static Plots: A time-series line plot of velocity components and a heatmap of vorticity distribution, highlighting how wake characteristics change over space and time.
+
+2) Interactive Plot: A dynamic visualization that allows users to explore specific distances and time intervals, facilitating deeper insight into the wake structure.
 
 
 .. _pyscaffold-notes:
