@@ -30,14 +30,22 @@
 |
 
 ====
-HW-3
+HW-3 - Vortex Shedding Wake Analysis
 ====
 
 
-    Add a short description here!
+A project analyzing time-series data from a numerically simulated turbulent wake behind an oscillating cylinder, using various static and interactive visualizations to explore vortex shedding characteristics.
 
 
-A longer description of your project goes here...
+A This project explores the turbulent wake created by an oscillating cylinder, specifically analyzing the effects of vortex shedding across different distances from the cylinder. Using time-series data collected every 0.25 seconds over a 100-second interval, we visualize and analyze patterns in velocity and vorticity measurements along sampling lines at distances of 2D, 4D, 6D, 8D, 10D, and 12D (where D is the cylinder diameter).
+
+The data provides insights into the behavior of turbulent wakes, characterized by variables such as Reynolds number, normalized amplitude A_star and velocity ratio U_star. 
+This project includes both static and interactive visualizations to examine spatial and temporal variations in wake patterns.
+
+Key visualizations include:
+
+Static Plots: A time-series line plot of velocity components and a heatmap of vorticity distribution, highlighting how wake characteristics change over space and time.
+Interactive Plot: A dynamic visualization that allows users to explore specific distances and time intervals, facilitating deeper insight into the wake structure.
 
 
 .. _pyscaffold-notes:
