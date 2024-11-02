@@ -37,7 +37,7 @@ HW-3 - Vortex Shedding Wake Analysis
 This project analyzing time-series data from a numerically simulated turbulent wake behind an oscillating cylinder, using various static and interactive visualizations to explore vortex shedding characteristics.
 
 
-This project explores the turbulent wake created by an oscillating cylinder, specifically analyzing the effects of vortex shedding across different distances from the cylinder. Using time-series data collected every 0.25 seconds over a 100-second interval, we visualize and analyze patterns in velocity and vorticity measurements along sampling lines at distances of 2D, 4D, 6D, 8D, 10D, and 12D (where D is the cylinder diameter).
+This project explores the turbulent wake created by an oscillating cylinder, specifically analyzing the effects of vortex shedding across different distances from the cylinder. Using time-series data collected every 30 seconds over a 100-second interval, we visualize and analyze patterns in velocity and vorticity measurements along sampling lines at distances of 4D, 6D, 8D and 10D (where D is the cylinder diameter).
 
 The data provides insights into the behavior of turbulent wakes, characterized by variables such as Reynolds number, normalized amplitude A_star and velocity ratio U_star. 
 This project includes both static and interactive visualizations to examine spatial and temporal variations in wake patterns.
